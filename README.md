@@ -1,4 +1,4 @@
-# Projeto app help desk desenvolvido com HTML, CSS e Bootstrap.
+# Projeto app help desk desenvolvido com HTML, CSS, Bootstrap e PHP.
 
 Para a persistência dos dados, mesmo que não recomedado foi feito através de arquivos .txt 
 
