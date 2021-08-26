@@ -1,4 +1,4 @@
-<? require_once "validador_acesso.php" ?>
+<?php require_once "validador_acesso.php" ?>
 
 <?php
 
@@ -59,7 +59,7 @@
             
             <div class="card-body">
               
-              <? foreach ($chamados as $chamado) { ?>
+              <?php foreach ($chamados as $chamado) { ?>
 
                 <?php
                   $chamado_dados = explode('#', $chamado);  
@@ -85,7 +85,7 @@
                   </div>
                 </div>
 
-              <? } ?>
+              <?php } ?>
 
               <div class="row mt-5">
                 <div class="col-6">
